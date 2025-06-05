@@ -1,0 +1,32 @@
+[
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "summary": "A dystopian story set in a world where the government watches everyone and controls everything, including people's thoughts. It follows Winston Smith as he secretly questions the system and tries to find freedom and truth in a society built on lies. This book really stuck with me because of how tense and controlled everything felt. It made me think about how easily people can be manipulated when they don't question things around them. It also made me more aware of the importance of privacy and ethical tech use. In Computer Science, it reminded me that what we build can either protect or invade people's freedom."
+  },
+  {
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "summary": "This book talks about how to build startups and create something truly new rather than just copying what already exists. Thiel shares his experience and explains how to think differently, take risks, and develop a unique vision. I liked how straightforward this book was. It helped me realize that being original is more valuable than just following trends, even if it's harder. It changed how I think about innovation in business and tech. Now I try to think about what isn't being done yet instead of just improving what already exists."
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "summary": "This book explains how our brains use two different systems to think: one is fast and automatic, and the other is slower and more logical. It shows how we often make mistakes in judgment because we rely too much on the fast system. At first, it was a bit hard to get into, but once I understood the concepts, I started noticing them in my own decision-making. It's cool to learn how your own brain can trick you. It made me more thoughtful when solving problems in Computer Science because I try to slow down and question my assumptions more."
+  },
+  {
+    "title": "The Minority Report",
+    "author": "Philip K. Dick",
+    "summary": "This story is about a future where crimes are stopped before they happen using a system that predicts people's actions. But when the main character, who runs the system, is predicted to commit a crime himself, everything starts to fall apart. I liked how the story made me question whether knowing the future is actually a good thing. It brought up some deep questions in a short amount of time. It made me think more critically about how we use algorithms and predictions in tech, especially when working with AI or data."
+  },
+  {
+    "title": "Moneyball: The Art of Winning an Unfair Game",
+    "author": "Michael Lewis",
+    "summary": "This book tells the story of how the Oakland A's baseball team used statistics and data to win games, even though they had a much smaller budget than other teams. It's about finding value in overlooked places. I liked how they used logic and numbers to challenge what people believed about sports. It showed me how powerful data can be when used creatively, especially in Business and Technology, where finding unique strategies matters."
+  },
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "summary": "A group of animals takes over a farm to build a fair society, but over time, the pigs in charge become just as bad as the humans they replaced. It's a story about how power can corrupt even the best intentions. This book was simple to read but deep in meaning. It made me think about leadership and how easy it is for people in charge to twist ideas. It helped me understand how systems, even in tech or business, can start off with good goals but end up unfair if there aren't strong values and fairness."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "year": "2023",
+    "description": "ICS2O1",
+    "detail": "Took first CS course in grade 10 and learned about basic javascript coding."
+  },
+  {
+    "year": "2024",
+    "description": "ICS3U1",
+    "detail": "Took the grade 11 university level CS course and learned about more advanced javascript methods."
+  },
+  {
+    "year": "2025",
+    "description": "ICS4U1",
+    "detail": "Took grade 12 university level CS course and learned about how to code and make web apps using python"
+  },
+  {
+    "year": "2025",
+    "description": "Part-time job at Elections Canada",
+    "detail": "Worked part-time for elections Canada during the 2025 Federal Election. Job was to input the votes into the system so that they could be totalled and displayed."
+  }
+]
