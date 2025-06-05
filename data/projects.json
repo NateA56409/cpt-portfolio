@@ -3,7 +3,7 @@
     "title": "Slime Slayer: Treasure Hunt",
     "date": "May 2024",
     "description": "A platformer game built using javascript where you must collect the coins and make it to the finish line. Can be accessed through this link: https://editor.p5js.org/NateA/sketches/w1AybEy0y",
-    "image": "static/images/Slime-Slayer.PNG"
+    "image": "images/Slime-Slayer.PNG"
   },
   {
     "title": "Detectify",
