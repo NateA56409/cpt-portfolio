@@ -9,12 +9,12 @@
     "title": "Detectify",
     "date": "May 2025",
     "description": "A program that is used to detect faces, and eyes in provided videos, can also detect features using a webcam or other video providing devices.",
-    "image": "static/images/Detectify.PNG"
+    "image": "images/Detectify.PNG"
   },
   {
     "title": "Mapify",
     "date": "May 2025",
     "description": "A program that generates a map of the world, with volcanoes shown on the map, a working coordinate system that appears on mouse click, and a search feature for the names of the volcanoes.",
-    "image": "static/images/Mapify.PNG"
+    "image": "images/Mapify.PNG"
   }
 ]
